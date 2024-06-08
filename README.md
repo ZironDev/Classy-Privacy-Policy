@@ -1,5 +1,3 @@
----
-
 **Privacy Policy for Classy**
 
 **Effective Date: [08/06/2024]**
@@ -64,4 +62,3 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 By using Classy, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
 
----
