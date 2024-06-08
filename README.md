@@ -4,7 +4,7 @@
 
 **1. Introduction**
 
-Welcome to Classy Privacy Policy ! We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Discord bot. By using CommunityHelper, you agree to the terms of this Privacy Policy.
+Welcome to Classy Privacy Policy ! We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Discord bot. By using Classy, you agree to the terms of this Privacy Policy.
 
 **2. Information We Collect**
 
